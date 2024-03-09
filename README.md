@@ -39,7 +39,7 @@ Contributions are welcome. Please fork the repository, make your changes, and su
 To clone this repository, run the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/iammahesh123/JSP-GET-Method-Demo.git
 ```
 
 ## License
