@@ -14,9 +14,12 @@ This project demonstrates simple form processing using JavaServer Pages (JSP) wi
 3. Submit the form.
 4. The `processGet.jsp` page will display a greeting message with the submitted name and email.
 
-## Example
+## Technologies Used
 
-[Add your example here]
+- Javaserver Pages
+- HTML
+- CSS
+- GET Method
 
 ## Installation
 
